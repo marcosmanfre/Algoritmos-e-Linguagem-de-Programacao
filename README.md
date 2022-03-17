@@ -1,2 +1,2 @@
 # Algoritmos-e-Linguagem-de-Programacao
- Primeiro termo
+ Lista de exercícios e projeto final do primeiro termo de Análise e Desenvolvimento de Sistemas.
